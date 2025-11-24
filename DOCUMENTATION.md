@@ -979,7 +979,7 @@ LOG_LEVEL=info
 
 ## Contributors
 
-- Developer: [Your Name]
+- Developer: Rohan S
 - Project: MoveInSync Alert Escalation System
 - Date: November 2025
 
